@@ -1,0 +1,55 @@
+.headertext{
+    color: rgb(245, 244, 244);
+    font-family: cursive;
+    font-size: 300px;
+}
+
+.subtitle{
+    font-family:serif;
+}
+
+.centerimages{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+} 
+
+.resumeListHeading{
+    font-weight: bold;
+    font-style: normal;
+}
+
+.div{
+    background-image: url('Images/tableau.jgp');
+}
+
+.title{
+    font-family:sans-serif
+}
+
+.text{
+    font-family: normal;
+    font-weight: normal;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+
+}
+
+.externalLink{
+    color: navy;
+}
+
+.resumetitle{
+    font-size: 50px;
+    color: black;
+    font-family: cursive;
+    text-align: center;    
+
+
+}
+
+.contact{
+    font-size: 30px;
+    font-family: cursive;
+}
